@@ -24,3 +24,4 @@ Evernote からエクスポートした HTML Web ページファイル (.html) �
 
 ■ 関連記事
 ---
+- [Evernote からエクスポートした HTML を Word 文書に一括変換する方法を調べてみた - 風柳メモ](http://furyu.hatenablog.com/entry/20161119/1479537666)  
